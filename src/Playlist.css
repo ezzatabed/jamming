@@ -1,0 +1,30 @@
+/* Playlist.css */
+
+.Playlist {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .Playlist input {
+    width: 100%;
+    padding: 15px;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .Playlist-save {
+    width: 100%;
+    padding: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    background-color: #1db954;
+    color: white;
+  }
+  
+  .Playlist-save:hover {
+    background-color: #25a54e;
+  }
+  
+  

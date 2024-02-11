@@ -1,0 +1,31 @@
+/* SearchBar.css */
+
+.SearchBar {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .SearchBar input {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .SearchButton {
+    width: 25%;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #1db954;
+    color: white;
+  }
+  
+  .SearchButton:hover {
+    background-color: #25a54e;
+  }
+  
+  
